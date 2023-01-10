@@ -384,11 +384,11 @@ h4, .h4 {
 }
 
 h5, .h5 {
-  font-size: 1.25rem;
+    font-size: 1.45rem;
 }
 
 h6, .h6 {
-    font-size: 0.75rem;
+    font-size: 1.15rem;
 }
 
 .lead {
